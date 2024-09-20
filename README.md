@@ -1,6 +1,7 @@
 # Tools-scanning-kali-linux
 Nmap -Buka Kali Linux, kemudian cari nmap dan buka
 ketik command berikut : sudo nmap (website yang akan di scan)
+
 ![2024-09-20_21-54](https://github.com/user-attachments/assets/27cf3f35-225a-49c9-8d92-9f50beacc95b)
 
 
